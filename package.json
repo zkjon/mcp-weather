@@ -1,4 +1,14 @@
 {
+  "name": "mcp-wheather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "keywords": [
+    "mcp",
+    "wheather"
+  ],
+  "author": "zkjon",
+  "license": "ISC",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.3"
   }
