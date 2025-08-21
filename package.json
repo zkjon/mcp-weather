@@ -1,11 +1,11 @@
 {
-  "name": "mcp-wheather",
+  "name": "mcp-weather",
   "version": "1.0.0",
   "description": "",
   "main": "src/main.ts",
   "keywords": [
     "mcp",
-    "wheather"
+    "weather"
   ],
   "author": "zkjon",
   "license": "ISC",

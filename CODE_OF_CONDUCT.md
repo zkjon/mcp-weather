@@ -52,7 +52,7 @@ If you have questions about this code of conduct or need to report a violation, 
 
 - **Main maintainer**: zkjon
 - **GitHub**: [@zkjon](https://github.com/zkjon)
-- **Project issues**: [mcp-wheather/issues](https://github.com/zkjon/mcp-wheather/issues)
+- **Project issues**: [mcp-weather/issues](https://github.com/zkjon/mcp-weather/issues)
 
 ## Version
 

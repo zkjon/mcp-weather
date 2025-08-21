@@ -24,8 +24,8 @@ This project implements an MCP server that allows AI models to obtain current we
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/zkjon/mcp-wheather.git
-   cd mcp-wheather
+   git clone https://github.com/zkjon/mcp-weather.git
+   cd mcp-weather
    ```
 
 2. **Install dependencies**
@@ -139,8 +139,8 @@ If you find any security vulnerability, please check our [security file](SECURIT
 
 If you have questions or need help:
 
-- 🐛 **Report bugs**: [Issues](https://github.com/zkjon/mcp-wheather/issues)
-- 💡 **Request features**: [Issues](https://github.com/zkjon/mcp-wheather/issues)
+- 🐛 **Report bugs**: [Issues](https://github.com/zkjon/mcp-weather/issues)
+- 💡 **Request features**: [Issues](https://github.com/zkjon/mcp-weather/issues)
 - 📧 **Contact**: [zkjon](https://github.com/zkjon)
 
 ## 🙏 Acknowledgments

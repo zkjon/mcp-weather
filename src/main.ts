@@ -5,7 +5,7 @@ import {z} from "zod" // zod is a library for validating data - https://zod.dev/
 
 // 1. define mcp model
 const server = new McpServer({
-    name: "Wheather Model Context Protocol",
+    name: "weather Model Context Protocol",
     version: "1.0.0",
     port: 1005, // i like this port number, it have special meaning ---> gen <3
 })

@@ -126,7 +126,7 @@ For security reports or related questions:
 
 - **Security email**: zkjon@github
 - **GitHub**: [@zkjon](https://github.com/zkjon)
-- **Project**: [mcp-wheather](https://github.com/zkjon/mcp-wheather)
+- **Project**: [mcp-weather](https://github.com/zkjon/mcp-weather)
 
 ## Acknowledgments
 

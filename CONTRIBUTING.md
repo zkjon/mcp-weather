@@ -44,13 +44,13 @@ There are many ways to contribute to MCP Weather Server:
 1. **Fork the repository**
    ```bash
    # Fork the repository on GitHub, then clone your fork
-   git clone https://github.com/YOUR_USERNAME/mcp-wheather.git
-   cd mcp-wheather
+   git clone https://github.com/YOUR_USERNAME/mcp-weather.git
+   cd mcp-weather
    ```
 
 2. **Set up upstream repository**
    ```bash
-   git remote add upstream https://github.com/zkjon/mcp-wheather.git
+   git remote add upstream https://github.com/zkjon/mcp-weather.git
    ```
 
 3. **Install dependencies**
@@ -66,7 +66,7 @@ There are many ways to contribute to MCP Weather Server:
 ### Project Structure
 
 ```
-mcp-wheather/
+mcp-weather/
 ├── main.ts              # Main MCP server
 ├── package.json         # Project configuration
 ├── bun.lock            # Dependencies lock file
@@ -233,7 +233,7 @@ Brief description of the changes made.
 
 ### Before Reporting
 
-- Search in [existing issues](https://github.com/zkjon/mcp-wheather/issues)
+- Search in [existing issues](https://github.com/zkjon/mcp-weather/issues)
 - Verify you are using the latest version
 - Reproduce the bug in a clean environment
 
