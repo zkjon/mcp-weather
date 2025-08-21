@@ -33,3 +33,6 @@ Thumbs.db
 *.zip
 *.bak
 *.tmp
+
+# web
+mcp-weather-web/
