@@ -6,6 +6,10 @@ A Model Context Protocol (MCP) server that provides real-time weather informatio
 
 This project implements an MCP server that allows AI models to obtain current weather information for any location worldwide. The server uses [Open-Meteo's](https://open-meteo.com/) free APIs for geocoding and weather data.
 
+## 🔍 Documentation
+
+Check out the [documentation](https://deepwiki.com/zkjon/mcp-weather) for more details on how to work with this server.
+
 ## ✨ Features
 
 - 🌍 **Global coverage**: Get weather information from any location worldwide
