@@ -37,9 +37,9 @@ This project implements an MCP server that allows AI models to obtain current we
 
 3. **Run the server**
    ```bash
-   bunx -y tsx main.ts
+   bunx -y tsx src/main.ts
    # or
-   npx -y tsx main.ts
+   npx -y tsx src/main.ts
    ```
 
 ## 🚀 Usage
@@ -56,7 +56,7 @@ To use this server with an MCP client, add the following configuration to your `
             "args": [
                 "-y",
                 "tsx",
-                "C:\\full\\path\\to\\project\\main.ts"
+                "C:\\full\\path\\to\\project\\src\\main.ts"
             ]
         }
     }

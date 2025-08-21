@@ -2,7 +2,7 @@
   "name": "mcp-wheather",
   "version": "1.0.0",
   "description": "",
-  "main": "main.ts",
+  "main": "src/main.ts",
   "keywords": [
     "mcp",
     "wheather"
